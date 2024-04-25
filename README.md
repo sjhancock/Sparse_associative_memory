@@ -1,1 +1,1 @@
-# Sparse_associative_memory
+# sparse_associative_memory
